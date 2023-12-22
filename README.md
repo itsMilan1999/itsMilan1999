@@ -2,8 +2,9 @@
 <h3 align="center">A passionate individual about data and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-
-- 💬 Ask me about **Python , R , statistics ,Predication models**
+- 💬 Ask me about **Python, Data Science, ML, AWS, Cloud, CGP, R, statistics, Predication models**
+  
+- 👨‍💻 about me **Lifelong learner and always open to new work and opportunities**
 
 - 📫 How to reach me **mbprajapati1732@gmail.com**
 
