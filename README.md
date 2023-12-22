@@ -2,11 +2,6 @@
 <h3 align="center">A passionate individual about data and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 I’m currently Pursuing **Master of Professional Studies in analytics**
-
-- 🌱 I’m currently learning **various advanced tools useful for AI and analytics**
-
-- 🤝 I’m looking for help with **co-op or internship opportunities**
 
 - 💬 Ask me about **Python , R , statistics ,Predication models**
 
