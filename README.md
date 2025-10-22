@@ -2,11 +2,11 @@
 <h3 align="center">A passionate individual about data and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 💬 Ask me about **Python, Data Science, ML, AWS, Cloud, CGP, R, statistics, Predication models**
+- 💬 Ask me about **Designing scalable data architectures, building secure data pipelines, and developing analytics solutions using Python, SQL, and cloud platforms (AWS, Azure, GCP).**
   
-- 👨‍💻 about me **Lifelong learner and always open to new work and opportunities**
+- 👨‍💻 about me **A lifelong learner, passionate about solving complex problems and always open to new opportunities and collaborations**
 
-- 📫 How to reach me **mbprajapati1732@gmail.com**
+- 📫 How to reach me **milan.prajapati.ca@gmail.com**
 
 - ⚡ Fun fact **I clean the data to make the data**
 
